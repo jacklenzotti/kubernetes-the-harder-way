@@ -1,4 +1,6 @@
-# Kubernetes the Harder Way
+# Mac running Intel hardware implementation of Kubernetes the Harder Way  
+
+# Kubernetes the Hardest Way (all credit to @ghik)
 
 A guide to setting up a production-like Kubernetes cluster on a local machine.
 
